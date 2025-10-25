@@ -12,3 +12,4 @@
 | [코드 최적화를 위한 리팩토링]()   | `N+1`, `Bulk Operation`,`Stream`, `Overhead`, `Asynchronous` |
 | [문제 해결로 배우는 캐시]()       | `Redis`, `Cache` `Remote Caching`                            |
 
+ing
